@@ -23,7 +23,8 @@ web-build/
 .env.*.local
 
 # IDE
-.vscode/
+.vscode/*
+!.vscode/settings.json
 .idea/
 *.swp
 *.swo

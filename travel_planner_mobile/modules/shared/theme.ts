@@ -2,21 +2,21 @@ export const COLORS = {
   primary: '#5CC2E7', // Sky Blue - Main brand color
   primaryDark: '#3BA5C9', // Darker Sky Blue for hover/active states
   primaryLight: '#8DD5EF', // Lighter Sky Blue for backgrounds
-  
+
   secondary: '#FF6B9D', // Coral Pink - Complementary warm accent
   accent: '#FFA726', // Warm Orange - Call-to-action
   success: '#4CAF50', // Green
   error: '#EF5350', // Red
   warning: '#FFA726', // Orange
-  
+
   // Neutrals
   neutralText: '#2C3E50', // Dark Blue-Gray
   neutralBg: '#F8FAFB', // Very Light Blue-Gray
-  
+
   // Backgrounds
   white: '#FFFFFF',
   black: '#000000',
-  
+
   // Grays
   gray50: '#F8FAFB',
   gray100: '#EDF2F7',

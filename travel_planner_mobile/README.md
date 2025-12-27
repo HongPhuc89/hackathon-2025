@@ -49,16 +49,19 @@ travel_planner_mobile/
 ## 🛠️ Cài đặt
 
 1. **Clone repository**
+
 ```bash
 cd /Users/phucnh/projects/hackathon-2025/travel_planner_mobile
 ```
 
 2. **Cài đặt dependencies**
+
 ```bash
 npm install
 ```
 
 3. **Chạy app**
+
 ```bash
 # Development
 npm start
@@ -84,6 +87,7 @@ npm run web
 ## 🎨 Thiết kế
 
 App được thiết kế với:
+
 - **Modern UI/UX**: Giao diện hiện đại, trực quan
 - **Smooth Animations**: Chuyển động mượt mà
 - **Responsive**: Tối ưu cho mọi kích thước màn hình
@@ -110,6 +114,7 @@ npm run typecheck  # Check TypeScript errors
 ## 👨‍💻 Phát triển
 
 Dự án sử dụng:
+
 - **Expo Router** cho navigation
 - **Zustand** cho state management
 - **TypeScript** cho type safety

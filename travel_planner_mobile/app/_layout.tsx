@@ -6,15 +6,15 @@ import { PortalProvider } from '@gorhom/portal'
 SplashScreen.preventAutoHideAsync()
 
 export default function RootLayout() {
-    useEffect(() => {
-        SplashScreen.hideAsync()
-    }, [])
+  useEffect(() => {
+    SplashScreen.hideAsync()
+  }, [])
 
-    return (
-        <GestureHandlerRootView style={{ flex: 1 }}>
-            <PortalProvider>
-                <Slot />
-            </PortalProvider>
-        </GestureHandlerRootView>
-    )
+  return (
+    <GestureHandlerRootView style={{ flex: 1 }}>
+      <PortalProvider>
+        <Slot />
+      </PortalProvider>
+    </GestureHandlerRootView>
+  )
 }
