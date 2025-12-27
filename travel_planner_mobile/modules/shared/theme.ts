@@ -1,30 +1,33 @@
 export const COLORS = {
-  primary: '#6366F1', // Indigo
-  secondary: '#EC4899', // Pink
-  accent: '#F59E0B', // Amber
-  success: '#10B981', // Green
-  error: '#EF4444', // Red
-  warning: '#F59E0B', // Amber
+  primary: '#5CC2E7', // Sky Blue - Main brand color
+  primaryDark: '#3BA5C9', // Darker Sky Blue for hover/active states
+  primaryLight: '#8DD5EF', // Lighter Sky Blue for backgrounds
+  
+  secondary: '#FF6B9D', // Coral Pink - Complementary warm accent
+  accent: '#FFA726', // Warm Orange - Call-to-action
+  success: '#4CAF50', // Green
+  error: '#EF5350', // Red
+  warning: '#FFA726', // Orange
   
   // Neutrals
-  neutralText: '#1F2937', // Gray-800
-  neutralBg: '#F9FAFB', // Gray-50
+  neutralText: '#2C3E50', // Dark Blue-Gray
+  neutralBg: '#F8FAFB', // Very Light Blue-Gray
   
   // Backgrounds
   white: '#FFFFFF',
   black: '#000000',
   
   // Grays
-  gray50: '#F9FAFB',
-  gray100: '#F3F4F6',
-  gray200: '#E5E7EB',
-  gray300: '#D1D5DB',
-  gray400: '#9CA3AF',
-  gray500: '#6B7280',
-  gray600: '#4B5563',
-  gray700: '#374151',
-  gray800: '#1F2937',
-  gray900: '#111827',
+  gray50: '#F8FAFB',
+  gray100: '#EDF2F7',
+  gray200: '#E2E8F0',
+  gray300: '#CBD5E0',
+  gray400: '#A0AEC0',
+  gray500: '#718096',
+  gray600: '#4A5568',
+  gray700: '#2D3748',
+  gray800: '#1A202C',
+  gray900: '#171923',
 } as const
 
 export const SPACING = {

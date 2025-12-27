@@ -246,7 +246,7 @@ const styles = StyleSheet.create({
     },
     submitButton: {
         width: '100%',
-        backgroundColor: COLORS.accent,
+        backgroundColor: COLORS.primary,
     },
     successContainer: {
         flex: 1,
@@ -258,7 +258,7 @@ const styles = StyleSheet.create({
         width: 128,
         height: 128,
         borderRadius: BORDER_RADIUS.xxl,
-        backgroundColor: COLORS.accent + '1A',
+        backgroundColor: COLORS.primary + '1A',
         alignItems: 'center',
         justifyContent: 'center',
         marginBottom: SPACING.xxl,
