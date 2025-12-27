@@ -563,6 +563,6 @@ const styles = StyleSheet.create({
   },
   saveButton: {
     width: '100%',
-    backgroundColor: COLORS.accent,
+    backgroundColor: COLORS.primary,
   },
 })
