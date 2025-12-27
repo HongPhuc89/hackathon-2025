@@ -162,7 +162,7 @@ export default function ItineraryScreen() {
         }
 
         addTrip(trip)
-        router.replace('/(app)/trips')
+        router.push('/(app)/review')
     }
 
     if (isLoading) {

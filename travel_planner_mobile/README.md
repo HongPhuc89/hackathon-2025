@@ -8,6 +8,7 @@ App gợi ý lịch trình du lịch thông minh với AI, được xây dựng 
 - 📍 **Gợi ý địa điểm**: Tự động đề xuất các điểm đến tốt nhất
 - 🏨 **Đề xuất khách sạn**: Tìm chỗ nghỉ phù hợp với ngân sách
 - 💾 **Lưu lịch trình**: Quản lý các chuyến đi đã lên kế hoạch
+- ⭐ **Đánh giá trải nghiệm**: Review và feedback về AI assistant
 - 🎨 **Giao diện đẹp mắt**: Thiết kế hiện đại, dễ sử dụng
 
 ## 🚀 Công nghệ
@@ -113,6 +114,13 @@ Dự án sử dụng:
 - **Zustand** cho state management
 - **TypeScript** cho type safety
 - **Module aliases** cho imports sạch hơn
+
+## 📚 Tài liệu
+
+- **[Quick Start Guide](../documents/QUICKSTART.md)** - Hướng dẫn chạy nhanh trong 3 bước
+- **[Development Guide](../documents/DEVELOPMENT.md)** - Architecture, patterns, best practices
+- **[Project Summary](../documents/PROJECT_SUMMARY.md)** - Tóm tắt chi tiết dự án
+- **[Review Screen Update](../documents/UPDATE_REVIEW_SCREEN.md)** - Cập nhật màn hình đánh giá
 
 ## 📄 License
 

@@ -22,25 +22,6 @@ Sau đó:
 - Nhấn `a` để mở Android emulator
 - Scan QR code bằng Expo Go app trên điện thoại
 
-## 📱 Demo Flow
-
-1. **Onboarding Screen**
-   - Xem giới thiệu app
-   - Nhấn "Bắt đầu ngay"
-
-2. **Login Screen**
-   - Nhập email bất kỳ (vd: `demo@wanderplan.com`)
-   - Nhập password bất kỳ (vd: `123456`)
-   - Nhấn "Đăng nhập"
-
-3. **My Trips Screen**
-   - Xem danh sách chuyến đi (ban đầu trống)
-   - Nhấn "Lên lịch mới"
-
-4. **AI Chat Screen**
-   - Trả lời 6 câu hỏi của AI:
-     1. Chọn điểm đến (vd: Đà Nẵng)
-     2. Chọn điểm khởi hành (vd: Hà Nội)
      3. Chọn số ngày (vd: 3 Ngày)
      4. Chọn loại du khách (vd: Gia đình)
      5. Chọn phong cách (vd: Thư giãn)

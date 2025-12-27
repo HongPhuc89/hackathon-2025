@@ -6,6 +6,7 @@ export default function AppLayout() {
             <Stack.Screen name="trips" />
             <Stack.Screen name="chat" />
             <Stack.Screen name="itinerary" />
+            <Stack.Screen name="review" />
         </Stack>
     )
 }
